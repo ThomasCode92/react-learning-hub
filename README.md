@@ -32,3 +32,4 @@ __Project Links:__
 | Investment Calculator | Calculate potential returns and plan investments effortlessly | React Essentials - Practice Project | [investment-calculator](https://github.com/ThomasCode92/investment-calculator) |
 | ReactArt | A minimalistic and sleek '_Sign In_' form. | Styling React Components | [reactart](https://github.com/ThomasCode92/reactart) |
 | Final Countdown | Start a timer and let's guess when it will halt | Refs & Portals | [final-countdown](https://github.com/ThomasCode92/final-countdown) |
+| Project Manager | Manage Projects and associated tasks | Practice Project | [project-manager](https://github.com/ThomasCode92/project-manager) |
