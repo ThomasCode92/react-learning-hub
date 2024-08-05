@@ -33,3 +33,8 @@ __Project Links:__
 | ReactArt | A minimalistic and sleek '_Sign In_' form. | Styling React Components | [reactart](https://github.com/ThomasCode92/reactart) |
 | Final Countdown | Start a timer and let's guess when it will halt | Refs & Portals | [final-countdown](https://github.com/ThomasCode92/final-countdown) |
 | Project Manager | Manage Projects and associated tasks | Practice Project | [project-manager](https://github.com/ThomasCode92/project-manager) |
+| Contextual Fashion | Online fashion store | React Context API | [contextual-fashion](https://github.com/ThomasCode92/contextual-fashion) |
+| Placepicker | Collection of places to visit | Side-effects & useEffect Hook | [placepicker](https://github.com/ThomasCode92/placepicker) |
+| React Quiz | Quiz about React Topics | Practice Project | [reactquiz](https://github.com/ThomasCode92/reactquiz) |
+| OptiCount | Stop-the-Timer Game | Optimization Techniques | [opticount](https://github.com/ThomasCode92/opticount) |
+| Placefinder | Collection of places to visit | HTTP Requests & Custom Hooks | [placefinder](https://github.com/ThomasCode92/placefinder) |
